@@ -1,0 +1,10 @@
+/* Footer styles */
+footer {
+  color: white;
+  margin-top: 50px;
+  text-align: center;
+}
+
+footer a {
+  color: var(--yellow);
+}
